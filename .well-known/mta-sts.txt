@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mxa-0049cd02.gslb.pphosted.com
-mx: mxb-0049cd02.gslb.pphosted.com
+mx: dev-nssi-com-2.fortimailcloud.com
 max_age: 604800
